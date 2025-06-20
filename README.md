@@ -1,55 +1,62 @@
-👋 About Me
-I’m Aizaz Ullah, a passionate Digital Creator & Marketer with a Bachelor's degree in Electrical Engineering. I have a strong presence on Facebook, LinkedIn, and TikTok with 1K+ followers, where I share visually engaging content and marketing insights.
+👋 Hi, I'm Aizaz Ullah!
+🎯 A passionate Digital Creator, Marketer, and Automation Specialist
+🛠 Skilled in Marketing Funnels, Content Creation, Data Management, and Customer Services
+🚀 I turn ideas into results using Go High-Level, Webflow, HubSpot, and AI-powered workflows.
 
-I specialize in:
+💡 Interests
+🤖 Marketing Automation & Funnels
 
-🔁 Customer Services & Automation
+🎨 Content Creation & Graphic Design
 
-✨ Content Creation
+📊 Data Management using Excel, Access, and Google Sheets
 
-📢 Digital Marketing
+📢 Social Media Growth (1K+ followers on FB, LinkedIn, TikTok)
 
-🎨 Graphic Design
+🧠 Exploring AI tools for digital growth
 
-📊 Data Management
+🌱 Currently Learning
+Advanced CRM Integration
 
-💼 Work Experience
-🚀 Automation Associate
-Carpe Diem Team (Remote / Contract)
-Built marketing funnels, landing pages, and automated workflows using Go High-Level.
-Used tools like Webflow, HubSpot, and JobNimbus to automate and generate leads.
+Conversion-Driven Copywriting
 
-🏦 Customer Services & Teller Operations
-MCB Bank Ltd – Swabi (2021–2022)
+More AI automation tools
 
-Customer dealing, cash deposits/withdrawals
+🤝 Looking to Collaborate On
+Marketing funnel setups
 
-Maintaining daily cash book and CRM accounting
+Resume/CV or portfolio designs
 
-Used Excel, Access, and Google Sheets for financial records
+CRM workflows and automation
 
-🎧 Customer Services Representative
-Touchstone Communications (Remote | 2020–2021)
+Data entry and management systems
 
-Worked on a contract-based call center project using Avaya Agent CRM
+📫 How to Reach Me
+📧 Email: engg.aizaz@yahoo.com
 
-Gained strong experience in remote disciplined working
+📱 Phone: +92 316 5003944
 
-🎓 Education
-FUUAST Islamabad
-Bachelor's in Electrical Engineering (2014–2018)
+🔗 LinkedIn: aizaz-ullah-52b33b128
 
-🛠️ Skills & Expertise
-Marketing Automation: Go High-Level, AI Workflows
-
-Data Tools: Excel, Access, Google Sheets
-
-Platforms: Webflow, HubSpot, JobNimbus
-
-Design & Content: Canva, Video Editing, Creative Writing
-
-📍 Contact Me
-📞 +92 316 5003944
-📧 engg.aizaz@yahoo.com
-🔗 LinkedIn Profile
 📍 Swabi, Pakistan
+
+⚡ Fun Fact
+I’ve built complex lead-generation systems remotely while sipping chai in Swabi ☕🌍
+
+📁 Projects & Roles
+🛠 Built automation funnels for Carpe Diem Team (Remote)
+
+🏦 Managed teller operations at MCB Bank Swabi
+
+🎧 Remote CSR for Touchstone Communications
+
+📊 Data tools expert: Excel, Google Sheets, Access
+
+🛠 Tech & Tools I Use
+
+
+
+
+
+
+✨ “Automation is the future — and I’m already building it.”
+Let’s connect and create something impactful! 🚀
