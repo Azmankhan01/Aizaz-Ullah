@@ -1,4 +1,4 @@
-👋 Hi, I'm Aizaz Ullah!
+# 👋 Hi, I'm Aizaz Ullah!
 🎯 A passionate Digital Creator, Marketer, and Automation Specialist
 🛠 Skilled in Marketing Funnels, Content Creation, Data Management, and Customer Services
 🚀 I turn ideas into results using Go High-Level, Webflow, HubSpot, and AI-powered workflows.
@@ -52,11 +52,6 @@ I’ve built complex lead-generation systems remotely while sipping chai in Swab
 📊 Data tools expert: Excel, Google Sheets, Access
 
 🛠 Tech & Tools I Use
-
-
-
-
-
 
 ✨ “Automation is the future — and I’m already building it.”
 Let’s connect and create something impactful! 🚀
