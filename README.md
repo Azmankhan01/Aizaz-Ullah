@@ -1,46 +1,55 @@
-# About me
-# HI I am Aizaz :wave:
-I am a digital creator with 1K+ followers on Facebook, LinkedIn, and TikTok, on creating visually engaging content. focused
-With a Bachelor's in Electrical Engineering and remote Customer Service experience, I specialize in Go High-Level, building marketing funnels, email templates, lead generation forms, and AI-driven
-workflows.
-I'm also skilled in Data Management (Excel, Access, Google Sheets, Webflow,
-HubSpot, and JobNimbus.
-I'm seeking opportunities with a company that offers leadership, growth, and
-competitive compensation.
+👋 About Me
+I’m Aizaz Ullah, a passionate Digital Creator & Marketer with a Bachelor's degree in Electrical Engineering. I have a strong presence on Facebook, LinkedIn, and TikTok with 1K+ followers, where I share visually engaging content and marketing insights.
 
-# Expertise Skill
-###Customer Services
-###Automations
-###Content Creation
-###Digital Marketing
-###Graphic Design
-###Data Management
+I specialize in:
 
-# Education
-2014-2018
-FUUAST Islamabad.
-Islamabad, Pakistan.
+🔁 Customer Services & Automation
 
-#Work Experience
-###Automation Associate
-Carpe Diem Team | Remote/Contract
-Built marketing funnels, landing pages,and automated workflows to drive leads and conversionscomplete a lot of complicated work.
-Used AI bots and CRMs like Webflow,
-HubSpot, and JobNimbus for automation.
-###Teller Services/Customer Services
-###MCB Bank Limited Swabi | 2021-2022
-Customer Dearling
-Cash Deposits and Withdrawals
-Daily maintaining the Cash Book and
-Accounting CRM
-Onsite job
-Excel, Access, and Google Sheets forfinancial management.
-###Customer Services Representative
-Touchstone Communications | 2020-2021
-This was a contract based projectworking from home and now ended.
-Got a good experience in using a new CRM platform Avaya Agent in a disciplined remote working mode.
-#How to reach me 
-+923165003944
-engg.aizaz@yahoo.com
-aizaz-ullah-52b33b128/
-Address: Swabi, Pakistan.
+✨ Content Creation
+
+📢 Digital Marketing
+
+🎨 Graphic Design
+
+📊 Data Management
+
+💼 Work Experience
+🚀 Automation Associate
+Carpe Diem Team (Remote / Contract)
+Built marketing funnels, landing pages, and automated workflows using Go High-Level.
+Used tools like Webflow, HubSpot, and JobNimbus to automate and generate leads.
+
+🏦 Customer Services & Teller Operations
+MCB Bank Ltd – Swabi (2021–2022)
+
+Customer dealing, cash deposits/withdrawals
+
+Maintaining daily cash book and CRM accounting
+
+Used Excel, Access, and Google Sheets for financial records
+
+🎧 Customer Services Representative
+Touchstone Communications (Remote | 2020–2021)
+
+Worked on a contract-based call center project using Avaya Agent CRM
+
+Gained strong experience in remote disciplined working
+
+🎓 Education
+FUUAST Islamabad
+Bachelor's in Electrical Engineering (2014–2018)
+
+🛠️ Skills & Expertise
+Marketing Automation: Go High-Level, AI Workflows
+
+Data Tools: Excel, Access, Google Sheets
+
+Platforms: Webflow, HubSpot, JobNimbus
+
+Design & Content: Canva, Video Editing, Creative Writing
+
+📍 Contact Me
+📞 +92 316 5003944
+📧 engg.aizaz@yahoo.com
+🔗 LinkedIn Profile
+📍 Swabi, Pakistan
